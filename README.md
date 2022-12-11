@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # Python language support in Atom
 ![ci](https://github.com/atom/language-python/workflows/ci/badge.svg)
 [![Dependency Status](https://david-dm.org/atom/language-python.svg)](https://david-dm.org/atom/language-python)
